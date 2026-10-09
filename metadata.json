@@ -1,0 +1,6 @@
+{
+  "name": "BiteRush - Fresh Meals, Delivered Fast",
+  "description": "Premium food delivery platform delivering fresh burgers, artisanal pizzas, authentic momo, crispy chicken, and gourmet meals fast to your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
